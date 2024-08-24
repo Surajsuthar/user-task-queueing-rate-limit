@@ -6,7 +6,7 @@ User Task Queuing with Rate Limiting
 ## Installation
 1. Clone the repository:
 ```
- git clone [https://github.com/yourusername/yourproject.git](https://github.com/Surajsuthar/user-task-queueing-rate-limit.git)
+ git clone https://github.com/Surajsuthar/user-task-queueing-rate-limit.git
 ```
 
 2. Install dependencies:
